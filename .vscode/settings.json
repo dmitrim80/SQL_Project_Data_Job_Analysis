@@ -4,9 +4,8 @@
       "previewLimit": 50,
       "server": "localhost",
       "port": 5432,
-      "askForPassword": true,
       "driver": "PostgreSQL",
-      "name": "postgres",
+      "name": "postgres_SQL_COURSE",
       "database": "sql_course",
       "username": "postgres"
     }
